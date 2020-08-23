@@ -1,5 +1,7 @@
 # todo
 
+### ✅ Super basic Vue todo-list
+
 ## Project setup
 ```
 npm install
